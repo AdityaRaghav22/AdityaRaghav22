@@ -64,7 +64,6 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-
   <img src="https://streak-stats.demolab.com?user=AdityaRaghav22&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaRaghav22&show_icons=true&theme=dark&rank_icon=github&hide_border=true" alt="GitHub Stats" />
