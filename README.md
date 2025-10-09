@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Aditya Raghav this side a Data Analyst and Backend Developer <br><br> 🔭 Working on an Inventory-Management-System <br> 📚 Exploring TensorFlow and CNN<br> ⚡ Interested in Artificial Inteligence and Machine Leaning </p>
+<p align="left">Aditya Raghav this side a Data Analyst and Backend Developer <br><br> 🔭 Working on an Hospital-Management-System <br> 📚 Exploring TensorFlow and CNN<br> ⚡ Interested in Artificial Inteligence and Machine Leaning </p>
 
 ###
 <h3 align="left">Connect with me:</h3>
